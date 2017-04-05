@@ -1,0 +1,14 @@
+
+xsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×„ßïÿÿÿÿÿ8ãéê¡³+
+osquid:S00116"MRename this field "IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¯¿üÿÿÿÿ8¬Ê¡³+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´Ã8ÏïÏ¡³+
+ñsquid:S1160"ÏRefactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.lang.IllegalAccessException, java.lang.InstantiationException, org.xmldb.api.base.XMLDBException(Æçà¸ùÿÿÿÿ8„›î¡³+
+‰squid:S1160"íRefactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, org.xmldb.api.base.XMLDBException, java.lang.IllegalAccessException, java.lang.InstantiationException, javax.xml.xquery.XQException(„ü(8Ñ”í¡³+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Î¼öè8¬Ê¡³+
+1squid:S1220""Move this file to a named package.
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´Ã8ÏïÏ¡³+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±©¼²8ãéê¡³+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´Ã8ÏïÏ¡³+
+ksquid:S00116"NRename this field "URI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äĞÿ¡8¬Ê¡³+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´Ã8ÏïÏ¡³+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´Ã8ÏïÏ¡³+
